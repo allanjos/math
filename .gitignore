@@ -1,0 +1,7 @@
+.vscode/
+*.o
+*.class
+build/
+src/perfect-number/perfect-number
+src/prime-c/prime
+src/divisors-c/divisors
